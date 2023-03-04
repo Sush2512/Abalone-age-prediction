@@ -1,1 +1,2 @@
 # Abalone-age-prediction
+Abalones are marine snails. Given the eight different features of abalones we have to predict their age. The traditional method of predicting the age of an abalone involves cutting the shell through the cone, staining it, and counting the number of rings through a microscope. This is a very boring and time consuming task. Instead, we are going to try predicting its age by grouping it into various classes.
